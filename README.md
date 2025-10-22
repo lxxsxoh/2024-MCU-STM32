@@ -27,10 +27,15 @@
 ## 4. 소프트웨어 구성 및 flow chart
 
 ### Initial Setting
+
 <img width="900" height="444" alt="image" src="https://github.com/user-attachments/assets/ef5687b5-b831-4bb6-932a-b43250e4bc8f" />
+
 ### Interrupt
+
 <img width="872" height="366" alt="image" src="https://github.com/user-attachments/assets/0943b11d-10d8-4e7f-b0a5-b63a73ef06e4" />
+
 ### Main Loop
+
 <img width="785" height="772" alt="image" src="https://github.com/user-attachments/assets/2f124ec8-2e5f-4774-80b3-4701831ec8db" />
 
 ## 5. 통합 시뮬레이션 및 구현
